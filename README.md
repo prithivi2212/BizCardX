@@ -20,7 +20,7 @@ BizCardX is a Streamlit application that effortlessly streamlines business card 
 - EasyOCR
 - Data Extraction
 - Streamlit (GUI development)
-- PostgreSQL (Database management)
+- PyMySQL (Database management)
 
 
 **Installation**
@@ -29,11 +29,10 @@ To run this project, you need to install the following packages:
 
 ```
 pip install easyocr
-pip install Pillow
 pip install numpy
 pip install pandas
 pip install pymongo
-pip install psycopg2
+pip install pymysql
 pip install streamlit
 pip install streamlit_option_menu
 ```
