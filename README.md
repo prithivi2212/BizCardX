@@ -20,7 +20,7 @@ BizCardX is a Streamlit application that effortlessly streamlines business card 
 - EasyOCR
 - Data Extraction
 - Streamlit (GUI development)
-- PyMySQL (Database management)
+- MySQL (Database management)
 
 
 **Installation**
